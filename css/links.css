@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(16, 16, 16);
+}
+
+.centered {
+    margin: flex;
+    justify-content: center;
+}
+
+.pfp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: rgba(235, 128, 250, 0.200);
+}
+
+.toptext {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
